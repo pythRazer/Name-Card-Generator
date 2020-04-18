@@ -27,3 +27,7 @@ You need to install Opencv for Java to be able to run this program
  *
  * by Lee Jui Chi on January, 13, 2019
  * Email: is0484xe@ed.ritsumei.ac.jp
+ 
+ # Example Name Card
+ 
+ ![Image description](link-to-image)
