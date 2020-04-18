@@ -30,4 +30,4 @@ You need to install Opencv for Java to be able to run this program
  
  # Example Name Card
  
- ![Image description](link-to-image)
+ ![Example Name Card](src/NameCard.png)
